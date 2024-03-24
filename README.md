@@ -31,7 +31,7 @@ I'm Anirudh :D</h1>
 
 ###
 
-<h2 align="left">Languages</></h2>
+<h2 align="left">Languages and Softwares</></h2>
 
 ###
 
