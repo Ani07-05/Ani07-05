@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/merged_PRs_at_Ratch-185-D4A017?style=for-the-badge&labelColor=1a1a1a" /> <img src="https://img.shields.io/badge/open_source_PRs_merged-11+-D4A017?style=for-the-badge&labelColor=1a1a1a" /> <img src="https://img.shields.io/badge/CTFtime_India-%2372-D4A017?style=for-the-badge&labelColor=1a1a1a" /> <img src="https://img.shields.io/badge/Cryovault_2026_Finals-18th-D4A017?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/merged_PRs_at_Ratch-185-D4A017?style=for-the-badge&labelColor=1a1a1a" /> <img src="https://img.shields.io/badge/open_source_PRs_merged-11+-D4A017?style=for-the-badge&labelColor=1a1a1a" /> <img src="https://img.shields.io/badge/CTFtime_India-%2372-D4A017?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 <br>
