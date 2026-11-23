@@ -1,46 +1,26 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=99999&color=D4A017&center=true&vCenter=true&width=400&loop=false&lines=anirudh+ashrith" alt="anirudh ashrith" />
-  </a>
-</div>
+## Anirudh Ashrith
 
-<br>
+B.Tech CS (May 2027), R.V. University, Bengaluru. Software engineer intern at Ratch.ai building real-time AI interview agents in Go. Security researcher focused on OT/ICS. Captain of Ctrl-Alt-Elite, a top-100 India CTF team on CTFtime.
 
-<div align="center">
-  <img src="https://github.com/Ani07-05/Ani07-05/blob/main/gif.gif" height="175" />
-</div>
+### Projects
 
-<br>
+| Project | What it is |
+| --- | --- |
+| [slendertoken](https://github.com/Ani07-05/slendertoken) | Terminal coding agent in Go that finishes tasks on the fewest tokens and reports cost in money, energy and carbon. |
+| [rehub-engine](https://github.com/Ani07-05/rehub-engine) | Offline OT/ICS investigation engine on Zeek and Suricata. Submitted to Nullcon Goa 2027. |
+| [nephos](https://github.com/Ani07-05/nephos) | Deploy a folder and share it by email. A small cloud for small software. |
+| [HyperShield](https://github.com/Ani07-05/HyperShield) | TOTP MFA gateway for VMware ESXi SSH commands, shipped as a VIB. |
+| [impact-scan](https://github.com/Ani07-05/impact-scan) | Semgrep plus multi-LLM vulnerability scanner with fix suggestions. |
+| [vigil](https://github.com/Ani07-05/vigil) | Web security scanning from the terminal, in Go. |
 
-<p align="center">
-  <sub><em>vittaṃ yāvat prayojanam &nbsp;·&nbsp; as much as suffices, no more</em></sub>
-</p>
+### Open source
 
-<br>
+Merged into [JuliaLang/julia](https://github.com/JuliaLang/julia/pull/62714), [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) and [OWASP/Nest](https://github.com/OWASP/Nest).
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  &nbsp;&nbsp;
-</div>
+### Stack
 
-<br>
+Go, Python, TypeScript, C, Svelte, PostgreSQL, Docker, LiveKit.
 
-<p align="center">
-  <a href="https://linkedin.com/in/anirudh-ashrith"><sub>linkedin</sub></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:anirudhashrith@gmail.com"><sub>mail</sub></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Ani07-05"><sub>github.com/Ani07-05</sub></a>
-</p>
+### Contact
+
+[LinkedIn](https://linkedin.com/in/anirudh-a-b209a0273) | anirudh.ashrith2005@gmail.com
